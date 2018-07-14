@@ -1,6 +1,6 @@
-# Home Credit Homework
+# Homework
 
-Home Credit Homework
+Homework
 
 
 ### API
