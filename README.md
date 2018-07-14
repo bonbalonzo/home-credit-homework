@@ -5,7 +5,7 @@ Home Credit Homework
 
 ### API
 
-API #1) http://<address>:<port>/weather?cities=<comma separated name of cities>
+API #1) http://&lt;address&gt;:&lt;port&gt;/weather?cities=&lt;comma separated name of cities&gt;
 	- this GET method API will give you the city location, weather, and temperature(by default, it's in celsius)
 ```
 Sample Request: GET http://localhost:8080/weather?cities=london,manila,tokyo,chicago,san francisco,prague
@@ -46,7 +46,7 @@ Sample Response:
 
 ```
 
-API #2) http://<address>:<port>/weather/log
+API #2) http://&lt;address>:&lt;port&gt;/weather/log
 	- this POST Method API will log a maximum of five location, weather and temperature of the city in the request body
 ```
 Sample Reqeust: 
